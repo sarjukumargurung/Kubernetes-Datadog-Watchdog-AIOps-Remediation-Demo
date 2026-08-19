@@ -1,7 +1,5 @@
 ## Kubernetes-Datadog-Watchdog-AIOps-Remediation-Demo
 
-## Demo - Datadog Watchdog AIOps Remediation Demo
-
 Datadog Watchdog automatically detects anomalies, performs root-cause analysis, and triggers automated remediation workflows to restore MySQL health inside a Kubernetes-in-Docker (KinD) local cluster on macOS. 
 
 When MySQL experiences performance degradation (such as high connection spikes or locks), Watchdog isolates the infrastructure layer from the application layer to find the root fault instantly.
